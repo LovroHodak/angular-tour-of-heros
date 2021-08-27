@@ -6,6 +6,10 @@
 
 5. ng g s hero
 
+6. ng g c messages
+7. ng g s messages
+8. 
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
