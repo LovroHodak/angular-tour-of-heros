@@ -8,7 +8,10 @@
 
 6. ng g c messages
 7. ng g s messages
-8. 
+
+8. ng generate module app-routing --flat --module=app
+9. ng generate component dashboard
+10. 
 
 # AngularTourOfHeroes
 
