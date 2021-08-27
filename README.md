@@ -3,7 +3,8 @@
 3. ng g c heroes
 
 4. ng g c hero-detail
-5. 
+
+5. ng g s hero
 
 # AngularTourOfHeroes
 
