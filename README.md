@@ -1,7 +1,9 @@
 1. ng new TryAngular
 2. ng serve --open
 3. ng g c heroes
-4. 
+
+4. ng g c hero-detail
+5. 
 
 # AngularTourOfHeroes
 
