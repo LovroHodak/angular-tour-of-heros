@@ -11,7 +11,10 @@
 
 8. ng generate module app-routing --flat --module=app
 9. ng generate component dashboard
-10. 
+
+10. npm install angular-in-memory-web-api --save (mimics communication with a remote data server)
+11. ng g s InMemoryData
+12. 
 
 # AngularTourOfHeroes
 
